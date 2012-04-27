@@ -1,0 +1,9 @@
+UserInterfaceState.xcuserstate
+*.swp
+*~.nib
+.DS_Store
+UserInterfaceState.xcuserstate
+xcdebugger
+
+build/
+
